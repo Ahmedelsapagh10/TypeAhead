@@ -15,7 +15,7 @@ TypeAhead in Flutter
 -  Example
 <div>
 <p align="left">
-<img src='https://github.com/Ahmedelsapagh10/TypeAhead/twitter-typeahead.png' width="30%"/>
+<img src='https://github.com/Ahmedelsapagh10/TypeAhead/blob/master/twitter-typeahead.png' width="30%"/>
 
 </p>
    TypeAheadField<String>(
